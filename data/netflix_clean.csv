@@ -1,0 +1,106 @@
+title,genre,seasons,imdb,runtime,language,year,main_genre,binge_score,is_recent
+Dark,Sci-Fi,3,8.8,55,German,2017,Sci-Fi,0.16,Old
+Stranger Things,Supernatural,4,8.7,51,English,2016,Supernatural,0.171,Old
+Money Heist,Thriller,5,8.2,47,Spanish,2017,Thriller,0.174,Old
+Narcos,Crime,3,8.8,49,English,2015,Crime,0.18,Old
+Squid Game,Thriller,1,8.1,54,Korean,2021,Thriller,0.15,Recent
+The Witcher,Fantasy,3,8.2,60,English,2019,Fantasy,0.137,Old
+Breaking Bad,Crime,5,9.5,47,English,2008,Crime,0.202,Old
+Peaky Blinders,Crime,6,8.8,60,English,2013,Crime,0.147,Old
+Alice In Borderland,Sci-Fi,2,7.6,50,Japanese,2020,Sci-Fi,0.152,Recent
+You,Thriller,4,7.7,45,English,2018,Thriller,0.171,Old
+Lucifer,Fantasy,6,8.1,55,English,2016,Fantasy,0.147,Old
+The Crown,Drama,6,8.6,58,English,2016,Drama,0.148,Old
+Ozark,Crime,4,8.5,60,English,2017,Crime,0.142,Old
+The Umbrella Academy,Superhero,3,7.9,50,English,2019,Superhero,0.158,Old
+Black Mirror,Sci-Fi,5,8.8,52,English,2011,Sci-Fi,0.169,Old
+The Haunting Of Hill House,Horror,1,8.6,60,English,2018,Horror,0.143,Old
+The Queen'S Gambit,Drama,1,8.6,56,English,2020,Drama,0.154,Recent
+Mindhunter,Crime,2,8.6,50,English,2017,Crime,0.172,Old
+Better Call Saul,Crime,6,8.9,46,English,2015,Crime,0.193,Old
+Vikings,Historical,6,8.5,44,English,2013,Historical,0.193,Old
+The Last Kingdom,Historical,5,8.5,58,English,2015,Historical,0.147,Old
+Sex Education,Comedy,4,8.3,53,English,2019,Comedy,0.157,Old
+Elite,Drama,6,7.4,47,Spanish,2018,Drama,0.157,Old
+13 Reasons Why,Drama,4,7.5,54,English,2017,Drama,0.139,Old
+The Sandman,Fantasy,1,7.8,55,English,2022,Fantasy,0.142,Recent
+Sweet Tooth,Fantasy,2,7.7,45,English,2021,Fantasy,0.171,Recent
+All Of Us Are Dead,Horror,1,7.5,53,Korean,2022,Horror,0.142,Recent
+Kingdom,Historical,2,8.3,51,Korean,2019,Historical,0.163,Old
+The Night Agent,Thriller,1,7.6,50,English,2023,Thriller,0.152,Recent
+3%,Sci-Fi,4,7.3,43,Portuguese,2016,Sci-Fi,0.17,Old
+The Lincoln Lawyer,Crime,2,7.7,48,English,2022,Crime,0.16,Recent
+Shadow And Bone,Fantasy,2,7.6,52,English,2021,Fantasy,0.146,Recent
+Cobra Kai,Action,5,8.5,42,English,2018,Action,0.202,Old
+The Oa,Fantasy,2,7.8,60,English,2016,Fantasy,0.13,Old
+The Punisher,Superhero,2,8.5,53,English,2017,Superhero,0.16,Old
+Daredevil,Superhero,3,8.6,51,English,2015,Superhero,0.169,Old
+Jessica Jones,Superhero,3,7.9,52,English,2015,Superhero,0.152,Old
+Iron Fist,Superhero,2,6.5,49,English,2017,Superhero,0.133,Old
+Luke Cage,Superhero,2,7.3,55,English,2016,Superhero,0.133,Old
+The Defenders,Superhero,1,7.3,50,English,2017,Superhero,0.146,Old
+Altered Carbon,Sci-Fi,2,8.0,56,English,2018,Sci-Fi,0.143,Old
+The 100,Sci-Fi,7,7.6,42,English,2014,Sci-Fi,0.181,Old
+Sense8,Sci-Fi,2,8.2,52,English,2015,Sci-Fi,0.158,Old
+The Good Place,Comedy,4,8.2,22,English,2016,Comedy,0.373,Old
+How To Sell Drugs Online (Fast),Comedy,3,8.0,33,German,2019,Comedy,0.242,Old
+Russian Doll,Mystery,2,7.8,30,English,2019,Mystery,0.26,Old
+Travelers,Sci-Fi,3,8.0,45,English,2016,Sci-Fi,0.178,Old
+Designated Survivor,Thriller,3,7.5,42,English,2016,Thriller,0.179,Old
+Blacklist,Crime,10,8.0,43,English,2013,Crime,0.186,Old
+Manifest,Drama,4,7.1,45,English,2018,Drama,0.158,Old
+Lost In Space,Sci-Fi,3,7.3,56,English,2018,Sci-Fi,0.13,Old
+Riverdale,Teen,7,6.5,42,English,2017,Teen,0.155,Old
+Gotham,Superhero,5,7.8,44,English,2014,Superhero,0.177,Old
+Lucifer India Cut,Fantasy,5,8.1,50,Hindi,2017,Fantasy,0.162,Old
+Delhi Crime,Crime,2,8.5,50,Hindi,2019,Crime,0.17,Old
+Sacred Games,Thriller,2,8.6,47,Hindi,2018,Thriller,0.183,Old
+Jamtara,Crime,2,7.3,45,Hindi,2020,Crime,0.162,Recent
+Kota Factory,Drama,3,8.9,35,Hindi,2019,Drama,0.254,Old
+Asur,Psychological,2,8.4,45,Hindi,2020,Psychological,0.187,Recent
+Panchayat,Comedy,2,8.9,35,Hindi,2020,Comedy,0.254,Recent
+Mirzapur,Crime,3,8.5,47,Hindi,2018,Crime,0.181,Old
+The Family Man,Thriller,2,8.7,50,Hindi,2019,Thriller,0.174,Old
+Bard Of Blood,Thriller,1,6.9,49,Hindi,2019,Thriller,0.141,Old
+Taj Mahal 1989,Romance,1,7.5,37,Hindi,2020,Romance,0.203,Recent
+Ray,Anthology,1,7.4,55,Hindi,2021,Anthology,0.135,Recent
+Aranyak,Thriller,1,7.8,46,Hindi,2021,Thriller,0.17,Recent
+She,Drama,2,6.4,48,Hindi,2020,Drama,0.133,Recent
+Ghoul,Horror,1,7.1,50,Hindi,2018,Horror,0.142,Old
+Hasmukh,Dark Comedy,1,6.5,32,Hindi,2020,Dark Comedy,0.203,Recent
+Betaal,Horror,1,5.4,45,Hindi,2020,Horror,0.12,Recent
+Little Things,Romance,4,8.3,26,Hindi,2016,Romance,0.319,Old
+Yeh Kaali Kaali Ankhein,Thriller,1,7.0,42,Hindi,2022,Thriller,0.167,Recent
+Mismatched,Romance,2,5.9,35,Hindi,2020,Romance,0.169,Recent
+Ak Vs Ak,Drama,1,6.8,42,Hindi,2020,Drama,0.162,Recent
+Selection Day,Sports,2,7.3,23,Hindi,2018,Sports,0.317,Old
+Decoupled,Comedy,1,7.8,36,Hindi,2021,Comedy,0.217,Recent
+Masaba Masaba,Drama,2,6.6,32,Hindi,2020,Drama,0.206,Recent
+Gone For Good,Thriller,1,6.7,45,French,2021,Thriller,0.149,Recent
+Lupin,Crime,3,7.5,45,French,2021,Crime,0.167,Recent
+Marseille,Drama,2,6.9,52,French,2016,Drama,0.133,Old
+Call My Agent,Comedy,4,8.3,52,French,2015,Comedy,0.16,Old
+The Hook Up Plan,Romance,3,7.0,30,French,2018,Romance,0.233,Old
+The Chalet,Horror,1,6.6,42,French,2017,Horror,0.157,Old
+Into The Night,Sci-Fi,2,7.1,40,French,2020,Sci-Fi,0.178,Recent
+Barbarians,Historical,2,7.2,45,German,2020,Historical,0.16,Recent
+Biohackers,Sci-Fi,2,6.8,40,German,2020,Sci-Fi,0.17,Recent
+Dark Desire,Thriller,2,6.5,35,Spanish,2020,Thriller,0.186,Recent
+Sky Rojo,Action,3,6.5,25,Spanish,2021,Action,0.26,Recent
+Wrong Side Of The Tracks,Crime,1,7.4,50,Spanish,2022,Crime,0.148,Recent
+Cable Girls,Drama,5,7.7,50,Spanish,2017,Drama,0.154,Old
+Valeria,Romance,3,6.5,45,Spanish,2020,Romance,0.144,Recent
+High Seas,Drama,3,6.8,42,Spanish,2019,Drama,0.162,Old
+The Mess You Leave Behind,Thriller,1,6.7,50,Spanish,2020,Thriller,0.134,Recent
+The Cook Of Castamar,Historical,1,7.4,50,Spanish,2021,Historical,0.148,Recent
+Toy Boy,Thriller,2,6.5,45,Spanish,2019,Thriller,0.144,Old
+El Dragon: Return Of A Warrior,Action,2,6.8,45,Spanish,2019,Action,0.151,Old
+Who Killed Sara?,Mystery,3,6.4,40,Spanish,2021,Mystery,0.16,Recent
+Ingobernable,Drama,2,7.0,50,Spanish,2017,Drama,0.14,Old
+The Marked Heart,Thriller,2,6.3,42,Spanish,2022,Thriller,0.15,Recent
+Blood & Water,Teen,3,6.5,45,English,2020,Teen,0.144,Recent
+The Imperfects,Sci-Fi,1,6.1,45,English,2022,Sci-Fi,0.136,Recent
+First Kill,Romance,1,6.2,42,English,2022,Romance,0.148,Recent
+Ginny & Georgia,Drama,2,7.5,50,English,2021,Drama,0.15,Recent
+Wednesday,Supernatural,1,8.2,52,English,2022,Supernatural,0.158,Recent
+The Night Agent (Us Cut),Thriller,1,7.6,50,English,2023,Thriller,0.152,Recent
